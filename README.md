@@ -28,3 +28,4 @@ Medical-Store-Billing-System
 ├── mini_medicine.c       
 ├── bill.txt              
 └── README.md             
+Author:Harsimran Kaur
